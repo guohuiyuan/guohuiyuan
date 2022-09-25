@@ -12,6 +12,15 @@
 ![](https://cdn.jsdelivr.net/gh/guohuiyuan/guohuiyuan@main/profile-summary-card-output/github/3-stats.svg)
 ![](https://cdn.jsdelivr.net/gh/guohuiyuan/guohuiyuan@main/profile-summary-card-output/github/4-productive-time.svg)
 
+语言
+- [x] **go** go语法比较熟悉, 不过还需多看原理和框架
+- [x] **java** java语法基本熟悉, 最近在看spring原理
+- [ ] **rust** 正在熟悉语法, 找不到好项目实践
+- [ ] **python** 会写脚本的程度
+- [ ] **c++** 大一学的程度, 很久没使用了
+
+
+
 <!--
 **guohuiyuan/guohuiyuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
