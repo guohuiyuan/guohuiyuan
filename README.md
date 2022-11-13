@@ -5,7 +5,7 @@
 加油, 争取躺平😘😍🥰
 
 [![](https://img.shields.io/badge/acfun-%E5%B0%8F%E9%94%85%E9%A5%ADOfficial-FD4C5D?style=flat-square&logo=acfun)](https://www.acfun.cn/u/26941386)
-[![](https://img.shields.io/badge/bilibili-%E5%B0%8F%E9%94%85%E9%A5%ADOfficial-ff69b4?style=flat-square&logo=bilibili)](https://space.bilibili.com/1561377116)
+[![](https://img.shields.io/badge/bilibili-%E5%B0%8F%E9%94%85%E9%A5%ADOfficial-ff69b4?style=flat-square&logo=bilibili)](https://space.bilibili.com/3493078960703680)
 
 
 ![](https://cdn.jsdelivr.net/gh/guohuiyuan/guohuiyuan@main/profile-summary-card-output/github/0-profile-details.svg)
@@ -26,6 +26,8 @@
 2. 时刻保持面部微笑, 别人问问题的时候不许不耐烦
 
 3. 早睡早起, 6点起来运动
+
+4. 一周更一次视频或专栏 
 
 
 
