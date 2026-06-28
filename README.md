@@ -8,6 +8,8 @@ You like coding, I like coding. Can I make friends with you?
 [![](https://img.shields.io/badge/小红书-小锅饭-FF2442?style=flat-square&logo=xiaohongshu)](https://www.xiaohongshu.com/user/profile/641090d5000000002901627b)
 [![](https://img.shields.io/badge/知乎-淡定是一味药-red?style=flat-square&logo=zhihu)](https://www.zhihu.com/people/dan-ding-shi-yi-wei-yao-34)
 
+[![GitHub Roast](https://githubroast.dev/api/card/guohuiyuan)](https://githubroast.dev/u/guohuiyuan)
+
 语言
 - [x] **go** 我最喜欢的语言
 - [x] **java** spring工程师 
